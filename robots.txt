@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /site
 
-Sitemap: https://blocktoss.vercel.app/sitemap.xml
+Sitemap: https://block-toss.vercel.app/sitemap.xml
